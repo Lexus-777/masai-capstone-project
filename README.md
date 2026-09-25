@@ -1,3 +1,3 @@
 # masai-capstone-project
 Masai capstone project
-rough text 
+This is my Masai Capstone Project.
